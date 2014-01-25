@@ -4,10 +4,13 @@
 * [Evernote](http://evernote.com/download/)
 * [Google Chrome](https://www.google.com/intl/en_uk/chrome/browser/)
 
-## To Code
-[Sourcetree](http://www.sourcetreeapp.com/download/)
-
 ## Productivity
+* Microsoft Office
+
+## To Code
+* [Sourcetree](http://www.sourcetreeapp.com/download/)
+
+
 InsomniaX
 HLCrashProcessor
 

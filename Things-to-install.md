@@ -1,21 +1,18 @@
+# Core
+* [Dropbox](https://www.dropbox.com/downloading)
+* [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
+* [Evernote](http://evernote.com/download/)
+* [Google Chrome](https://www.google.com/intl/en_uk/chrome/browser/)
+
+## To Code
+[Sourcetree](http://www.sourcetreeapp.com/download/)
+
+## Productivity
 InsomniaX
 HLCrashProcessor
-Dock
+
 Automator
-Calculator
-Calendar
-Chess
-Contacts
 Dashboard
-Dictionary
-DVD Player
-FaceTime
-Font Book
-Game Center
-Image Capture
-QuickTime Player
-Reminders
-Safari
 Skype
 SourceTree
 SQLite Database Browser 2.0 b1
@@ -25,40 +22,11 @@ BibDesk
 LaTeXiT
 TeXShop
 TextEdit
-Time Machine
-tn3270 X
+
 TouchCopy12
 DiskImageMounter
-App Store
-AirPort Utility
-AppleScript Editor
-Audio MIDI Setup
-Bluetooth File Exchange
-Boot Camp Assistant
-ColorSync Utility
-Console
-DigitalColor Meter
-Disk Utility
 Grab
 Grapher
-Keychain Access
-Migration Assistant
-Network Utility
-RAID Utility
-System Information
-Terminal
-VoiceOver Utility
-Image Capture Extension
-AddPrinter
-AddressBookUrlForwarder
-AirPlayUIAgent
-AirPort Base Station Agent
-Apple80211Agent
-AppleFileServer
-AppleGraphicsWarning
-AppleScript Runner
-AppleScript Utility
-Archive Utility
 Automator Launcher
 Automator Runner
 AVRCPAgent

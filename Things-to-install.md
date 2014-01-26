@@ -7,6 +7,7 @@
 
 ## Productivity
 * Microsoft Office
+* [MacTeX](http://www.tug.org/mactex/index.html)
 
 ## To Code
 * [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)

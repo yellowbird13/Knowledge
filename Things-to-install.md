@@ -59,6 +59,7 @@
 * [Keka](http://www.kekaosx.com/en/)
 * [Telephone](https://itunes.apple.com/gb/app/telephone/id406825478)
 * [Unbound](http://unboundformac.com/)
+* [Unix File Permissions Widget](http://www.apple.com/downloads/dashboard/networking_security/unixpermissioncalculatorwidget.html)
 
 ### Big Brother
 * [GPGSuite](https://gpgtools.org/gpgsuite.html)

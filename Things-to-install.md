@@ -19,7 +19,7 @@
 * DJvu (if someone sends you a file which needs it)
 
 ### To Code– Tools
-* [Sublime Text Editor](http://www.sublimetext.com/2)
+* [Sublime Text Editor](http://www.sublimetext.com/2). Recommend a lot of what's [recommended here](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 * [Sourcetree](http://www.sourcetreeapp.com/download/)
 * [Limechat](http://limechat.net/mac/)
 * [Cyberduck] (http://cyberduck.io/)
@@ -35,6 +35,7 @@
 * [Pyenv](https://github.com/yyuu/pyenv)
 * [Virtualenv](http://www.virtualenv.org/en/latest/virtualenv.html#installation) & [Virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/install.html) or [through Pyenv](https://github.com/yyuu/pyenv-virtualenvwrapper)
 * [Postgresapp](http://postgresapp.com/)
+* [MySQL](http://dev.mysql.com/downloads/mysql/) with [PHPMyAdmin](http://www.phpmyadmin.net/home_page/index.php)
 
 ### Entertainment
 * [Spotify](https://www.spotify.com/uk/download/mac/)
@@ -57,6 +58,7 @@
 * [EchofonLite](https://itunes.apple.com/gb/app/echofon-lite-for-twitter/id403858460)– great Twitter client (and works well with its iOS counterpart too)
 * [Keka](http://www.kekaosx.com/en/)
 * [Telephone](https://itunes.apple.com/gb/app/telephone/id406825478)
+* [Unbound](http://unboundformac.com/)
 
 ### Big Brother
 * [GPGSuite](https://gpgtools.org/gpgsuite.html)

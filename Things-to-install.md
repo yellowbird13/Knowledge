@@ -51,7 +51,7 @@
 * [smcFanControl](https://www.macupdate.com/app/mac/23049/smcfancontrol)
 * [Caffeine](http://lightheadsw.com/caffeine/)
 * [Carbon Copy Cloner](http://www.bombich.com/)– useful for taking a backup of a 'clean' installed system
-* Disk Inventory X (site down at the time of writing)
+* [Disk Inventory X](http://www.derlien.com/downloads/index.html)
 
 ### Misc
 * [EchofonLite](https://itunes.apple.com/gb/app/echofon-lite-for-twitter/id403858460)– great Twitter client (and works well with its iOS counterpart too)

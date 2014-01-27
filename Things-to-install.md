@@ -1,11 +1,11 @@
-# Core
+### Core
 * [Dropbox](https://www.dropbox.com/downloading)
 * [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
 * [Evernote](http://evernote.com/download/)
 * [Google Chrome](https://www.google.com/intl/en_uk/chrome/browser/)
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
 
-## Productivity
+### Productivity
 * Microsoft Office
 * [MacTeX](http://www.tug.org/mactex/index.html)
 * Adobe Lightroom
@@ -14,7 +14,7 @@
 * [Jing](http://www.techsmith.com/download/jing/)– great for annotating screenshots or making screencasts
 * DJvu (if someone sends you a file which needs it)
 
-## To Code– Tools
+### To Code– Tools
 * [Sourcetree](http://www.sourcetreeapp.com/download/)
 * [Sublime Text Editor](http://www.sublimetext.com/2)
 * [Limechat](http://limechat.net/mac/)
@@ -24,7 +24,7 @@
 * MATLAB (for [EEE](http://www3.imperial.ac.uk/electricalengineering) Coursework...)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-## To Code– other stuff
+### To Code– other stuff
 * [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
 * [Homebrew](http://brew.sh/)
 * [Pyenv](https://github.com/yyuu/pyenv)
@@ -33,12 +33,12 @@
 
 
 
-## Entertainment
+### Entertainment
 * [Spotify](https://www.spotify.com/uk/download/mac/)
 * [VLC](http://www.videolan.org/vlc/download-macosx.html)
 * [BBC iPlayer Desktop](http://www.bbc.co.uk/iplayer/install)(although I usually use [get_iplayer](https://github.com/dinkypumpkin/get_iplayer) with homebrew)
 
-## System
+### System
 * [CCleaner](https://www.piriform.com/ccleaner/download?mac)
 * [Memory Clean](https://itunes.apple.com/gb/app/memory-clean/id451444120?mt=12)
 * [Keka](http://www.kekaosx.com/en/)

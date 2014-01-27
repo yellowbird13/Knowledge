@@ -19,7 +19,7 @@
 * DJvu (if someone sends you a file which needs it)
 
 ### To Code– Tools
-* [Sublime Text Editor](http://www.sublimetext.com/2). Recommend a lot of what's [recommended here](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
+* [Sublime Text Editor](http://www.sublimetext.com/2). Recommend a lot of what's [recommended here](http://dbader.org/blog/setting-up-sublime-text-for-python-development). And you can [launch it from the terminal](https://gist.github.com/artero/1236170)
 * [Sourcetree](http://www.sourcetreeapp.com/download/)
 * [Limechat](http://limechat.net/mac/)
 * [Cyberduck] (http://cyberduck.io/)

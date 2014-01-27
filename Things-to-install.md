@@ -12,6 +12,7 @@
 * Adobe CC/CS6 (Photoshop, InDesign & Illustrator)
 * GIMP
 * [Jing](http://www.techsmith.com/download/jing/)– great for annotating screenshots or making screencasts
+* DJvu (if someone sends you a file which needs it)
 
 ## To Code– Tools
 * [Sourcetree](http://www.sourcetreeapp.com/download/)
@@ -20,6 +21,8 @@
 * [Cyberduck] (http://cyberduck.io/)
 * [Hex fiend](http://ridiculousfish.com/hexfiend/)– useful for inspecting very large files
 * [Induction](http://inductionapp.com/)– up and coming database explorer, although not currently worked on :(
+* MATLAB (for [EEE](http://www3.imperial.ac.uk/electricalengineering) Coursework...)
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 ## To Code– other stuff
 * [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
@@ -46,6 +49,9 @@
 * [Carbon Copy Cloner](http://www.bombich.com/)– useful for taking a backup of a 'clean' installed system
 * Disk Inventory X (site down at the time of writing)
 
+### Big Brother
+* [GPGSuite](https://gpgtools.org/gpgsuite.html)
+* [Tor](https://www.torproject.org/projects/torbrowser.html.en)
 
 1Password
 
@@ -56,19 +62,14 @@ Sublime Text 2
 Excalibur
 TorBrowser_en-US
 Transmission
-Tunnelblick
 Twitter
 Adobe AIR Uninstaller
 Wunderlist
-VirtualBox
 Xee
 puush
-Xcode
-VirtualBoxVM
 Slack
 FakeFlash
 Shady
-MATLAB_R2013a
 Alfred
 DjView
 TorBrowser

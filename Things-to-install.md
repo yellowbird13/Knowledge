@@ -64,5 +64,6 @@
 ### Big Brother
 * [GPGSuite](https://gpgtools.org/gpgsuite.html)
 * [Truecrypt](http://www.truecrypt.org/downloads)
+* [Permanent Eraser](http://download.cnet.com/Permanent-Eraser/3000-2092_4-10668789.html)
 * [Tor](https://www.torproject.org/projects/torbrowser.html.en)
 * [Transmission](http://www.transmissionbt.com/download/)

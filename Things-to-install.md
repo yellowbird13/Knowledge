@@ -8,6 +8,7 @@
 
 ### Productivity
 * Microsoft Office (Word, Excel, PowerPoint, Outlook)
+* [Skim](http://skim-app.sourceforge.net)– brilliant too for reading & annotating PDFs
 * Fantastical (maybe)
 * [Wunderlist](https://www.wunderlist.com/en/) 
 * [MacTeX](http://www.tug.org/mactex/index.html)

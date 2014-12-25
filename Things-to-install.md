@@ -54,6 +54,8 @@
 * [Caffeine](http://lightheadsw.com/caffeine/)
 * [Carbon Copy Cloner](http://www.bombich.com/)– useful for taking a backup of a 'clean' installed system
 * [Disk Inventory X](http://www.derlien.com/downloads/index.html)
+* [Super Duper (Drive backup/cloning)](www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
+* [Titanium Tools](http://www.titanium.free.fr/) - useful for lots of little tasks
 
 ### Misc
 * [EchofonLite](https://itunes.apple.com/gb/app/echofon-lite-for-twitter/id403858460)– great Twitter client (and works well with its iOS counterpart too)

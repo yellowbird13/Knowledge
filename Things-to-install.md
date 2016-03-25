@@ -1,3 +1,5 @@
+Do this to be (marginally more) seecure: http://blog.rongarret.info/2015/08/psa-beware-of-sudo-on-os-x.html
+
 ### Core
 * [Dropbox](https://www.dropbox.com/downloading)
 * [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
